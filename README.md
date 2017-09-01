@@ -1,3 +1,3 @@
 # nnpn
 neuralnet
-![alt](http://imgur.com/xEZVBSy)
+![alt](http://i.imgur.com/xEZVBSy.jpg)
